@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @unnerving-sprinkler
-- 👀 I’m interested in ... Python and Folding At Home
-- 🌱 I’m currently learning ... Python... Again
+- 👋 Hi, I’m @unnerving-sprinkler (Ethan)
+- 👀 I’m interested in ... Python, Folding At Home, and Being a bad Programmer
+- 🌱 I’m currently learning ... Python... Again (Also C#)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
