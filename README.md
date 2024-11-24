@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unnerving-sprinkler (Ethan)
+👋 Hi, I’m @unnerving-sprinkler (Ethan)
 
 Mechanical Engineer | Electronics Tech | Not a Good Programmer
 
